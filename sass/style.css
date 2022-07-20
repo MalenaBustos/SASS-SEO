@@ -1,0 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Mingzat&family=Open+Sans:ital,wght@0,400;0,500;1,300&display=swap");
+.transform_img:hover {
+  cursor: pointer;
+  transform: scaleX(0.9);
+  transform: scaleY(0.9);
+}/*# sourceMappingURL=style.css.map */
